@@ -27,7 +27,7 @@ ReactDOM.render(<App/>, document.querySelector('#app'))
 ```
 
 # target
-```
+```diff
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
